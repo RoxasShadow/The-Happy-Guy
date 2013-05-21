@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Menu.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Menu.cs" Line="57" Column="6" />
+      <File FileName="Assets\Scripts\FPSCounter.cs" Line="7" Column="32" />
+      <File FileName="Assets\Scripts\Directionallight.cs" Line="11" Column="16" />
+      <File FileName="Assets\Scripts\Cylinder.cs" Line="6" Column="2" />
+      <File FileName="Assets\Scripts\Sun.cs" Line="13" Column="35" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
